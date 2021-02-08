@@ -1,0 +1,41 @@
+translations:
+  text:
+    new_post: "Nouveau Podcast"
+    see_also: "Ecouter aussi"
+    search: "Recherche"
+    author: "Auteur"
+    share: "Parager"
+    comments: "Commentaires"
+  button:
+    read_now: "Ecouter maintenant"
+    share_on_twitter: "Partager sur Twitter"
+    share_on_facebook: "Partager sur Facebook"
+  pagination:
+    page: "Page"
+    of: "de"
+    next_page: "Page suivante"
+    next_post: "Page précédente"
+  recommendation:
+    text: "Pourquoi ne pas écouter quelque chose d'autre ?"
+    back_btn: "Retour au début de la page"
+  error_404:
+    title: "Page non trouvée :("
+    message: "Je suis désolé. Nous n'avons pas pu trouver la page que vous cherchez."
+    image_alt: "404 - Page not found"
+  contact:
+    title: "Contacter nous"
+    subject: "Nouveau contact!"
+    submit_btn: "Envoyer"
+    placeholders:
+      name: "Votre nom"
+      email: "Votre adresse électronique"
+      message: "Votre message"
+    errors:
+      locale: "fr"
+      empty_name: "Le nom est obligatoire"
+      empty_email: "L'adresse électronique est obligatoire"
+      invalid_email: "L'adresse électronique n'est pas valide"
+      empty_message: "Le message est obligatoire"
+    after_send:
+      title: "Message envoyé !"
+      message: "Je vous remercie de nous avoir contacté.Nous revenons vers vous dans les plus brefs délais."
